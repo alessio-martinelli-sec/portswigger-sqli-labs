@@ -7,3 +7,7 @@ This repository contains my practice and writeups on SQL Injection vulnerabiliti
 
 ## 🎯 Goal
 To build a solid understanding of SQL Injection by practicing real-world scenarios and documenting the exploitation process.
+
+## 📂 Labs
+
+### SQL Injection

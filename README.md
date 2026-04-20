@@ -1,2 +1,2 @@
-# PortSwigger WebSecurity Academy Write-ups
-SQL Injection labs and writeups from PortSwigger Web Security Academy. Focus on manual exploitation, payloads and vulnerability understanding.
+# PortSwigger SQL Injection Labs
+This repository contains my practice and writeups on SQL Injection vulnerabilities from PortSwigger Web Security Academy.

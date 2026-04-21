@@ -11,3 +11,5 @@ To build a solid understanding of SQL Injection by practicing real-world scenari
 ## 📂 Labs
 
 ### SQL Injection
+
+- [SQLi – WHERE Clause (Hidden Data)](./sqli/where-clause-hidden-data.md)

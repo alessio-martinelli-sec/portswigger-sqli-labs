@@ -13,3 +13,4 @@ To build a solid understanding of SQL Injection by practicing real-world scenari
 ### SQL Injection
 
 - [SQLi – WHERE Clause (Hidden Data)](./sqli/where-clause-hidden-data.md)
+- [SQLi – Authentication Bypass](./sqli/login-bypass.md)
